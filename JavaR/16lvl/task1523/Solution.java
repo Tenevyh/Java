@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task15.task1523;
-
 import java.io.*;
 import java.net.URL;
 import java.net.URLConnection;

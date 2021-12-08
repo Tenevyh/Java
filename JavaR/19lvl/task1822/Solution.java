@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task18.task1822;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;

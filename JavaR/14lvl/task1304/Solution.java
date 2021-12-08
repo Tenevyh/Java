@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task13.task1304;
-
 import java.util.*;
 
 /* 

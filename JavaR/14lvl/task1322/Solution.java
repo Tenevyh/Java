@@ -1,4 +1,3 @@
-package com.javarush.task.pro.task13.task1322;
 /*
 Типы многоугольников
 В классе Solution есть метод getShapeNameByCountOfCorners(int),

@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task16.task1619;
-
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 

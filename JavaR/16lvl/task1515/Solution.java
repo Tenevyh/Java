@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task15.task1515;
-
 import java.nio.file.Path;
 import java.util.Scanner;
 

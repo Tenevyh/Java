@@ -1,4 +1,3 @@
-package com.javarush.task.pro.task13.task1321;
 /*
 Из switch в if
 В классе Solution есть метод getTranslationForDayOfWeek(String),

@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task18.task1812;
-
 public class Language {
     private String name;
     private Double ranking;

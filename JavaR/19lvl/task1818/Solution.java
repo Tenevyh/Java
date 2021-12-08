@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task18.task1818;
-
 import java.time.LocalDate;
 import java.time.Month;
 import java.util.stream.Stream;

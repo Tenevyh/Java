@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task15.task1504;
-
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;

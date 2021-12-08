@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task15.task1502;
-
 import java.util.Scanner;
 
 /* 

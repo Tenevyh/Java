@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task16.task1620;
-
 import java.time.ZonedDateTime;
 import java.time.format.DateTimeFormatter;
 

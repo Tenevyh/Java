@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task18.task1815;
-
 public class Account {
     private String name;
     private String email;

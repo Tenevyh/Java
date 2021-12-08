@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task15.task1508;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;

@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task16.task1613;
-
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;

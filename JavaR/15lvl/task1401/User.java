@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task14.task1401;
-
 import java.util.Objects;
 
 public class User {

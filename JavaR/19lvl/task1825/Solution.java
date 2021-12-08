@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task18.task1825;
-
 import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.joining;

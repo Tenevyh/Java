@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task13.task1308;
-
 import java.util.ArrayList;
 import java.util.Collections;
 

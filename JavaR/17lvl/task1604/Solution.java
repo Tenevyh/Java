@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task16.task1604;
-
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 

@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task13.task1320;
-
 /*
 Из if в switch
 В классе Solution есть метод getMonthByIndex(int), который возвращает название месяца по его номеру, начиная с 1.

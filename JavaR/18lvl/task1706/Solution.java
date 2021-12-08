@@ -1,6 +1,4 @@
-package com.javarush.task.pro.task17.task1706;
-
-/* 
+/*
 Хищники vs Травоядные
 Перед тобой 4 класса животных — Cow, Lion, Wolf и Elephant. Корова (Cow) и слон (Elephant) являются травоядными, поэтому они наследуются от класса Herbivore.
 А лев (Lion) и волк (Wolf) являются хищниками, поэтому они наследуются от класса Predator. В свою очередь классы Herbivore и Predator унаследованы от Animal.

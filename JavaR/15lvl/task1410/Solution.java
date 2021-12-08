@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task14.task1410;
-
 import java.io.FileNotFoundException;
 import java.nio.file.FileSystemException;
 

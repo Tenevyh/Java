@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task16.task1616;
-
 import java.time.ZoneId;
 import java.time.ZonedDateTime;
 import java.util.TreeSet;

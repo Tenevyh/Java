@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task18.task1811;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

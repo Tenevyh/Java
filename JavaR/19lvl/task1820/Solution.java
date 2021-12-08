@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task18.task1820;
-
 import java.util.Optional;
 import java.util.stream.Stream;
 

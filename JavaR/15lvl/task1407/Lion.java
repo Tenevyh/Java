@@ -1,6 +1,4 @@
-package com.javarush.task.pro.task14.task1407;
-
-/* 
+/*
 Еда едой, а сон по расписанию
 */
 

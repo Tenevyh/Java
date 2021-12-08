@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task18.task1803;
-
 public class JavaRushMentor {
     private String name;
 

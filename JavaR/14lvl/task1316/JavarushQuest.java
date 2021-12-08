@@ -1,6 +1,4 @@
-package com.javarush.task.pro.task13.task1316;
-
-/* 
+/*
 Перечислим квесты Javarush
 */
 

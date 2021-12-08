@@ -1,6 +1,4 @@
-package com.javarush.task.pro.task14.task1412;
-
-/* 
+/*
 Группировка исключений
 Объедини блоки catch с одинаковым кодом.
 */

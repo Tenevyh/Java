@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task13.task1307;
-
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Collections;

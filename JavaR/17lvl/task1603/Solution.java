@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task16.task1603;
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
 

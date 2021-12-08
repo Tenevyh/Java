@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task16.task1610;
-
 import java.time.LocalTime;
 
 /*

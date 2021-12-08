@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task13.task1309;
-
 import java.util.HashMap;
 
 /* 

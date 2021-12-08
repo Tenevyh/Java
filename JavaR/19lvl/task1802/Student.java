@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task18.task1802;
-
 public class Student {
     private String name;
     private int age;

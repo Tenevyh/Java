@@ -1,5 +1,3 @@
-package com.javarush.task.pro.task14.task1413;
-
 import java.util.Map;
 import java.util.TreeMap;
 import java.util.stream.Collectors;
